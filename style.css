@@ -5,3 +5,12 @@
   font-size: 18px;
   font-weight: 600;
 }
+
+.banner-ph{
+
+   background-image: url(images/banner.png);
+  background-repeat: no-repeat;
+   height: 100vh;
+  
+
+}
