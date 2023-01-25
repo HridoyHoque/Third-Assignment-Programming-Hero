@@ -14,3 +14,27 @@
   
 
 }
+
+.header-text{
+
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+}
+
+@media only screen and (max-width: 576px) {
+    /* banner & carousel */
+    .banner {
+      padding: 30px 30px;
+    }
+  
+    .banner-items h1 {
+      font-size: 52px;
+    }
+}
+
+.ph-card-img-top{
+    width: 72%;
+    height: 72%;
+}
